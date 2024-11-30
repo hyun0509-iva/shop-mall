@@ -1,0 +1,11 @@
+.main__wrap {
+    width: 100%;
+
+}
+
+.visual {
+    padding: 30px 0;
+    width: 100%;
+    height: calc(100vh - 124px);
+    background-color: azure;
+}

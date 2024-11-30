@@ -1,0 +1,34 @@
+.gnbMenu__wrap {
+  padding: 5px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.gnbMenu__wrap .logo__wrap {
+    width: 120px;
+    height: 40px;
+    border: 1px solid #a5a0a0;
+}
+
+.gnbMenu__wrap .logo__wrap img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+
+.gnbMenu__wrap .gnbMenu {
+  padding: 15px 0;
+}
+
+.gnbMenu__wrap .gnbMenu ul {
+    display: flex;
+    gap: 25px;
+    width: 100%;
+    font-size: 18px;
+}
+
+

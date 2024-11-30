@@ -1,0 +1,15 @@
+.tobMenu__wrap {
+  width: 100%;
+  padding: 5px;
+}
+
+.tobMenu__wrap > ul {
+  display: flex;
+  justify-content: flex-end;
+  gap: 21px;
+  font-weight: 400;
+}
+
+.tobMenu__wrap li {
+  font-size: 12px;
+}
